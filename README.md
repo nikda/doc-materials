@@ -25,4 +25,13 @@
 ## Ссылки
 ### .Net + .Net Core
  * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
+ * [JWT-токены](https://metanit.com/sharp/aspnet5/23.7.php)
+ * [Авторизация на основе Claims (Policy)](https://metanit.com/sharp/aspnet5/15.6.php)
+ * [Аутентификация asp .net core через IdentityServer4](https://habr.com/ru/post/426289/)
+ 
+### Микросервисы примера eShopOnContainers
+ * [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://devblogs.microsoft.com/cesardelatorre/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
+ * [The Http communication is as follows:Client app --> API Gateway --> (Optional) HttpAggregator --> Internal Microservices](https://github.com/dotnet-architecture/eShopOnContainers/issues/637)
+ 
+
 
