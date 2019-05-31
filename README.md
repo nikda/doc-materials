@@ -28,6 +28,8 @@
  * [JWT-токены](https://metanit.com/sharp/aspnet5/23.7.php)
  * [Авторизация на основе Claims (Policy)](https://metanit.com/sharp/aspnet5/15.6.php)
  * [Аутентификация asp .net core через IdentityServer4](https://habr.com/ru/post/426289/)
+ * [Secure a backend web API](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/web-api)
+ * [Cache access tokens](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/token-cache)
  
 ### Микросервисы примера eShopOnContainers
  * [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://devblogs.microsoft.com/cesardelatorre/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
