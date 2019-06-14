@@ -69,3 +69,27 @@ https://dotnet.microsoft.com/download/dotnet-core/2.1
 https://github.com/abergs/fido2-net-lib
 
 https://github.com/abergs/fido2-net-lib
+
+### ELK
+ * https://elk-docker.readthedocs.io/
+ * https://www.elastic.co/downloads/logstash
+ * https://www.elastic.co/guide/en/logstash/5.2/first-event.html
+
+	
+	logstash-simple.conf
+
+cd bin
+.\logstash.bat -f logstash-simple.conf
+
+input {
+  stdin { }
+  http {
+    host => "127.0.0.1" # default: 0.0.0.0
+    port => 9610 # default: 8080
+  }
+}
+
+output {
+  elasticsearch { hosts => ["localhost:9200"] }
+  stdout { codec => rubydebug }
+}
