@@ -93,3 +93,35 @@ output {
   elasticsearch { hosts => ["localhost:9200"] }
   stdout { codec => rubydebug }
 }
+
+
+### Docker
+* Images https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/net-core-net-framework-containers/net-container-os-targets
+* Create https://docs.microsoft.com/ru-ru/dotnet/standard/microservices-architecture/docker-application-development-process/docker-app-development-workflow
+* https://docs.microsoft.com/ru-ru/aspnet/core/host-and-deploy/docker/visual-studio-tools-for-docker?view=aspnetcore-2.2
+* https://docs.microsoft.com/ru-ru/dotnet/core/docker/intro-net-docker
+* [VS + Hello world](https://docs.microsoft.com/ru-ru/dotnet/core/docker/build-container)
+* https://docs.docker.com/engine/examples/dotnetcore/#create-a-dockerfile-for-an-aspnet-core-application
+
+docker create --name hw2_2 helloworld2
+
+docker - не может запуститься VS debugger - Reset Credentials для Shared Drivers in docker
+    * https://docs.microsoft.com/en-us/visualstudio/containers/troubleshooting-docker-errors?view=vs-2019
+	
+/health/ready
+/health/live
+https://docs.microsoft.com/ru-ru/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-2.2
+https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks
+
+
+JWT
+https://andrey.moveax.ru/post/asp-net-core-web-api-authentication-part-1-jwt
+https://andrey.moveax.ru/post/asp-net-core-web-api-authentication-part-2-jwt-based-on-jws
+https://metanit.com/sharp/aspnet5/23.7.php
+https://docs.microsoft.com/ru-ru/aspnet/core/security/authorization/limitingidentitybyscheme?view=aspnetcore-2.2&tabs=aspnetcore2x
+
+JMeter
+https://habr.com/ru/post/456928/
+
+
+Microsoft Visual Studio and .NET Framework Log Collection Tool https://www.microsoft.com/en-us/download/details.aspx?id=12493
