@@ -36,6 +36,8 @@
  * [Get started with NSwag and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-2.2&tabs=visual-studio)
  * [Secure a backend web API](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/web-api)
  * [Cache access tokens](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/token-cache)
+ * [.NET: Инструменты для работы с многопоточностью и асинхронностью. Часть 1](https://habr.com/ru/post/452094/)
+ * [.NET: Инструменты для работы с многопоточностью и асинхронностью. Часть 2](https://habr.com/ru/post/459514/)
  
 ### Микросервисы примера eShopOnContainers
  * [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://devblogs.microsoft.com/cesardelatorre/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
@@ -125,3 +127,23 @@ https://habr.com/ru/post/456928/
 
 
 Microsoft Visual Studio and .NET Framework Log Collection Tool https://www.microsoft.com/en-us/download/details.aspx?id=12493
+
+
+### GIT
+
+Password: https://stackoverflow.com/questions/31782090/remove-saved-credentials-from-tortoisegit/31782500
+rundll32.exe keymgr.dll,KRShowKeyMgr
+
+
+### Vue
+
+https://github.com/vuejs/vue-hackernews-2.0
+
+### БД
+https://habr.com/ru/company/yandex/blog/435880/
+http://rsdn.org/forum/design/7488563.1
+
+### NPM
+	[A lightweight private npm proxy registry](https://verdaccio.org)
+	
+
