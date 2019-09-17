@@ -52,7 +52,7 @@
  * https://gyorgybalassy.wordpress.com/2013/12/02/cleaning-up-iis-express-configuration/
  * Renamed WebSite + path: https://stackoverflow.com/questions/39591197/a-renamed-website-web-config-log4net-using-iis-express-using-git-version-con
 
-###
+### Книги
  * [Книга «Конкурентность и параллелизм на платформе .NET. Паттерны эффективного проектирования»](https://habr.com/ru/company/piter/blog/453804/)
  
  
