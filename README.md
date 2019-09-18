@@ -18,6 +18,8 @@
 
 ### Паттерны
 #### Репозиторий
+#### Сага
+  * [Реализация паттерна saga на C#](https://jira.moex.com/secure/attachment/85345/swagger%20accounts%20by%20contract%20id.yaml)
 
 ---
 ## TOOLS
