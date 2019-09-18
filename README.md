@@ -135,6 +135,8 @@ Microsoft Visual Studio and .NET Framework Log Collection Tool https://www.micro
 Password: https://stackoverflow.com/questions/31782090/remove-saved-credentials-from-tortoisegit/31782500
 rundll32.exe keymgr.dll,KRShowKeyMgr
 
+Обновление submudule git submodule update --remote --merge
+
 
 ### Vue
 
