@@ -140,6 +140,10 @@ rundll32.exe keymgr.dll,KRShowKeyMgr
 
 Обновление submudule git submodule update --remote --merge
 
+### Swagger
+ * Mock server
+   * [Prism](https://stoplight.io/p/docs/gh/stoplightio/prism/docs/guides/cli.md)
+
 
 ### Vue
 
