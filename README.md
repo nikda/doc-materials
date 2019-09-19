@@ -42,6 +42,7 @@
  * [.NET: Инструменты для работы с многопоточностью и асинхронностью. Часть 1](https://habr.com/ru/post/452094/)
  * [.NET: Инструменты для работы с многопоточностью и асинхронностью. Часть 2](https://habr.com/ru/post/459514/)
  * [Валидация WebApi](http://anthonygiretti.com/2018/11/18/common-features-in-asp-net-core-2-1-webapi-validation/)
+ * [**Примеры**] (https://github.com/aspnet/Entropy/tree/master/samples)
  
 ### Микросервисы примера eShopOnContainers
  * [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://devblogs.microsoft.com/cesardelatorre/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
