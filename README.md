@@ -143,6 +143,7 @@ rundll32.exe keymgr.dll,KRShowKeyMgr
 ### Swagger
  * Mock server
    * [Prism](https://stoplight.io/p/docs/gh/stoplightio/prism/docs/guides/cli.md)
+   * [Prism](https://help.stoplight.io/prism/getting-started/prism-introduction)
 
 
 ### Vue
