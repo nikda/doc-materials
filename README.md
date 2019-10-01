@@ -157,6 +157,6 @@ https://habr.com/ru/company/yandex/blog/435880/
 http://rsdn.org/forum/design/7488563.1
 
 ### NPM
-	[A lightweight private npm proxy registry](https://verdaccio.org)
+  [A lightweight private npm proxy registry](https://verdaccio.org)
 	
 
