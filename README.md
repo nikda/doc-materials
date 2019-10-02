@@ -158,5 +158,10 @@ http://rsdn.org/forum/design/7488563.1
 
 ### NPM
   [A lightweight private npm proxy registry](https://verdaccio.org)
+  
+### Разное
+ * [OpenAPM - Application Performance Management tools](https://openapm.io/)
+ * [Elastic APM](https://github.com/elastic/apm)
+ 
 	
 
