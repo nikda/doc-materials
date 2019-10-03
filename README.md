@@ -27,6 +27,10 @@
 
  * dotnet pack --configuration Debug
  * dotnet nuget push *.nupkg -s http://172.20.192.93:8081/repository/nuget-hosted/ -k ${NEXUS_API_KEY}
+ * Логирование
+   * [jq](https://stedolan.github.io/jq/tutorial/)
+* JSON
+  * [Поиск в JSON - qj](https://stedolan.github.io/jq/tutorial/)
 
 
 ---
