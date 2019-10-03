@@ -162,6 +162,7 @@ http://rsdn.org/forum/design/7488563.1
 
 ### NPM
   [A lightweight private npm proxy registry](https://verdaccio.org)
+  [Монорепозиторий lerna](https://habr.com/ru/company/yandex/blog/469021/)
   
 ### Разное
  * [OpenAPM - Application Performance Management tools](https://openapm.io/)
