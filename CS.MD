@@ -5,3 +5,4 @@
 * [Матрица компетентности программиста](https://github.com/omreps/programmer-competency-matrix)
 * [Матрица компетентности программиста 2](https://github.com/omreps/programmer-competency-matrix/blob/master/partII.md)
 * (https://bool.dev/blog/detail/voprosy-na-sobesedovanii-po-c)
+* [Вопросы по ASP.NET MVC](http://aspnet-sobes.blogspot.com/)
