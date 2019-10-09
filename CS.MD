@@ -1,4 +1,7 @@
 * [8 заданий по C#, которые могут попасться на собеседовании](https://proglib.io/p/8-csharp-questions/)
 * [Собеседование по C# и .NET](https://metanit.com/sharp/interview/)
 * [Как я проходил собеседования на позицию Junior .Net Developer](https://habr.com/ru/post/338102/)
-
+* [Несколько вопросов по .NET и C# (ответы с разбором)](https://habr.com/ru/post/172329/)
+* [Матрица компетентности программиста](https://github.com/omreps/programmer-competency-matrix)
+* [Матрица компетентности программиста 2](https://github.com/omreps/programmer-competency-matrix/blob/master/partII.md)
+* (https://bool.dev/blog/detail/voprosy-na-sobesedovanii-po-c)
