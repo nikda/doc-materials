@@ -27,10 +27,12 @@ id значение
 Если id — это число и оно точно-точно идет последовательно, то можно просто сделать join этой таблицы самой с собой по условию r.id = l.id + 1 ну и выбрать те строки где l.value <> r.value
 Если же такое требование на id не выполняется, то можно пронумеровать через оконные функции и row_number() а дальше то же самое.
 
-```SELECT Id, v FROM #t
+```sql
+SELECT Id, v FROM #t
 
 SELECT * FROM (
     SELECT Id, v, v1 = (SELECT TOP 1 v FROM #t t2 WHERE t2.Id > t1.Id ORDER BY ID) 
     FROM #t t1 
 ) AS t3
-WHERE t3.v <> t3.v1```
+WHERE t3.v <> t3.v1
+```
