@@ -170,5 +170,7 @@ http://rsdn.org/forum/design/7488563.1
  * [Elastic APM](https://github.com/elastic/apm), https://www.elastic.co/products/apm
  
  
-	
+### Алгоритмы
+  * [Сортировка](https://habr.com/ru/post/204600/)
+
 
