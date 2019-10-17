@@ -172,5 +172,6 @@ http://rsdn.org/forum/design/7488563.1
  
 ### Алгоритмы
   * [Сортировка](https://habr.com/ru/post/204600/)
+  * [Сортировка](http://www.vzmakh.ru/info/pascal/modules/page14.html)
 
 
