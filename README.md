@@ -175,4 +175,5 @@ http://rsdn.org/forum/design/7488563.1
   * [Сортировка](http://www.vzmakh.ru/info/pascal/modules/page14.html)
   * [Сортировка](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D1%8C%D0%BA%D0%BE%D0%BC)
 
+  * [Медиана двух массивов](https://toster.ru/q/292421)
 
