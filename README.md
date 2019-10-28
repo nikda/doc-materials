@@ -177,3 +177,5 @@ http://rsdn.org/forum/design/7488563.1
 
   * [Медиана двух массивов](https://toster.ru/q/292421)
 
+### JavaScript
+  * https://proglib.io/p/js-guide/
