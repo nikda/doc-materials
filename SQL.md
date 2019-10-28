@@ -2,6 +2,7 @@
 * [Наш вариант теста на знание SQL](https://habr.com/ru/post/181033/)
 * [Вотпросы и ответы 1](https://andreyex.ru/bazy-dannyx/uchebnoe-posobie-po-sql/14-naibolee-chasto-ispolzuemyx-zaprosov-sql-vopros-otvet/)
 * [Вопросы и ответы 2](https://www.sql.ru/forum/1301998-2/zadachi-dlya-sql-dzhunov-s-otvetami)
+* [Оконные функции](https://www.fastreport.ru/ru/blog/251/show/)
 
 
 ## Вопрос 1
