@@ -4,6 +4,8 @@
 * [Вопросы и ответы 2](https://www.sql.ru/forum/1301998-2/zadachi-dlya-sql-dzhunov-s-otvetami)
 * [Оконные функции](https://www.fastreport.ru/ru/blog/251/show/)
 * [Типы физических соединений](http://sql-ex.ru/blogs/optimization/merge-joins.html)
+* [Графический план выполнения запросов SQL Server в действии](http://www.sqlbooks.ru/readarticle.aspx?part=02&file=tuningperf13)
+* [Графическое изображение плана исполнения, выдаваемого SQL Query Analyzer](http://www.softpoint.ru/archive/article_id17.php)
 
 
 ## Вопрос 1
