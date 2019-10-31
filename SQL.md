@@ -6,6 +6,7 @@
 * [Типы физических соединений](http://sql-ex.ru/blogs/optimization/merge-joins.html)
 * [Графический план выполнения запросов SQL Server в действии](http://www.sqlbooks.ru/readarticle.aspx?part=02&file=tuningperf13)
 * [Графическое изображение плана исполнения, выдаваемого SQL Query Analyzer](http://www.softpoint.ru/archive/article_id17.php)
+* [Задание с примером](http://www.cyberforum.ru/sql-server/thread1544839.html)
 
 
 ## Вопрос 1
