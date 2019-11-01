@@ -8,6 +8,10 @@
 * [Графическое изображение плана исполнения, выдаваемого SQL Query Analyzer](http://www.softpoint.ru/archive/article_id17.php)
 * [Задание с примером](http://www.cyberforum.ru/sql-server/thread1544839.html)
 * [Storing passwords in a secure way (HASH)](https://www.mssqltips.com/sqlservertip/4037/storing-passwords-in-a-secure-way-in-a-sql-server-database/)
+* [На пути к правильным SQL транзакциям (Часть 1)](https://habr.com/ru/company/infopulse/blog/261097/)
+* [На пути к правильным SQL транзакциям (Часть 2)](https://habr.com/ru/company/infopulse/blog/261101/)
+* [Оптимизация производительности SQL Server с использованием индексов](https://habr.com/ru/post/164717/)
+* [14 вопросов об индексах в SQL Server, которые вы стеснялись задать](https://habr.com/ru/post/247373/)
 
 
 ## Вопрос 1
