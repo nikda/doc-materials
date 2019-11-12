@@ -12,6 +12,7 @@
 * [На пути к правильным SQL транзакциям (Часть 2)](https://habr.com/ru/company/infopulse/blog/261101/)
 * [Оптимизация производительности SQL Server с использованием индексов](https://habr.com/ru/post/164717/)
 * [14 вопросов об индексах в SQL Server, которые вы стеснялись задать](https://habr.com/ru/post/247373/)
+* [Индексы](https://www.sql.ru/articles/mssql/03013101indexes.shtml)
 
 
 ## Вопрос 1
