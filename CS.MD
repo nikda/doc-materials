@@ -7,3 +7,6 @@
 * (https://bool.dev/blog/detail/voprosy-na-sobesedovanii-po-c)
 * [Вопросы по ASP.NET MVC](http://aspnet-sobes.blogspot.com/)
 * [Generic Repository](https://deviq.com/repository-pattern/)
+
+## .Net Core
+* [Как работает конфигурация в .NET Core](https://habr.com/ru/post/453416/)
