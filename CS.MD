@@ -8,5 +8,8 @@
 * [Вопросы по ASP.NET MVC](http://aspnet-sobes.blogspot.com/)
 * [Generic Repository](https://deviq.com/repository-pattern/)
 
+
 ## .Net Core
 * [Как работает конфигурация в .NET Core](https://habr.com/ru/post/453416/)
+* [Lazy<>](https://andrey.moveax.ru/post/patterns-oop-creational-lazy-initialization)
+* [ConcurentDictionary<T> + Lazy<T>](https://habr.com/ru/company/skbkontur/blog/348508/)
