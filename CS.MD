@@ -7,6 +7,7 @@
 * (https://bool.dev/blog/detail/voprosy-na-sobesedovanii-po-c)
 * [Вопросы по ASP.NET MVC](http://aspnet-sobes.blogspot.com/)
 * [Generic Repository](https://deviq.com/repository-pattern/)
+* [Сборка мусора, LOH](https://docs.microsoft.com/ru-ru/dotnet/standard/garbage-collection/large-object-heap)
 
 
 ## .Net Core
