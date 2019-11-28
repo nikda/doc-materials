@@ -14,3 +14,4 @@
 * [Как работает конфигурация в .NET Core](https://habr.com/ru/post/453416/)
 * [Lazy<>](https://andrey.moveax.ru/post/patterns-oop-creational-lazy-initialization)
 * [ConcurentDictionary<T> + Lazy<T>](https://habr.com/ru/company/skbkontur/blog/348508/)
+* [Отказоустойчивые приложения](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/)
