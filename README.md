@@ -38,7 +38,10 @@
 ## Ссылки
 ### .Net + .Net Core
  * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core)
+ 
  * [JWT-токены](https://metanit.com/sharp/aspnet5/23.7.php)
+ * [Secure Password Resets with JWT] (https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/)
+ 
  * [Авторизация на основе Claims (Policy)](https://metanit.com/sharp/aspnet5/15.6.php)
  * [Аутентификация asp .net core через IdentityServer4](https://habr.com/ru/post/426289/)
  * [Get started with NSwag and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-2.2&tabs=visual-studio)
