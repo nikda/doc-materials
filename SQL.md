@@ -65,3 +65,14 @@ FROM @t t1 LEFT JOIN @t t2 ON t1.id = t2.id + 1
 WHERE t1.v <> t2.v
 ```
 
+## Полезное
+ * Поиск изпользования
+ 
+ ```sql
+SELECT DISTINCT o.name AS Object_Name, o.type_desc
+FROM sys.sql_modules m
+    INNER JOIN sys.objects o ON m.object_id = o.object_id
+WHERE m.definition Like '%XXX%'; 
+ ```
+
+
