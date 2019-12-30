@@ -44,6 +44,12 @@
  
  * [Авторизация на основе Claims (Policy)](https://metanit.com/sharp/aspnet5/15.6.php)
  * [Аутентификация asp .net core через IdentityServer4](https://habr.com/ru/post/426289/)
+ 
+ * [Аутентификация asp .net core через сертификаты](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/certauth?view=aspnetcore-3.1)
+ ** [2](https://damienbod.com/2019/06/27/using-chained-certificates-for-certificate-authentication-in-asp-net-core-3-0/)
+ ** [3](https://damienbod.com/2019/06/13/certificate-authentication-in-asp-net-core-3-0/)
+ ** [4](https://stackoverflow.com/questions/40014047/add-client-certificate-to-net-core-httpclient/48243930)
+ 
  * [Get started with NSwag and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-2.2&tabs=visual-studio)
  * [Secure a backend web API](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/web-api)
  * [Cache access tokens](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/token-cache)
