@@ -59,6 +59,8 @@
  * **[Примеры](https://github.com/aspnet/Entropy/tree/master/samples)**
  * [Тестирование контроллеров](https://docs.microsoft.com/ru-ru/aspnet/core/mvc/controllers/testing?view=aspnetcore-3.0)
  
+ * [Случайные числа - RNGCryptoServiceProvider](https://books.google.ru/books?id=3pqHDwAAQBAJ&pg=PA27&lpg=PA27&dq=rngcryptoserviceprovider+unique+key+different+computers&source=bl&ots=mQn1jKSL6e&sig=ACfU3U2SAzrqLzsl6T70XiIEpYlRgtlrig&hl=en&sa=X&ved=2ahUKEwiht9jMpd_mAhVTAxAIHemUDHMQ6AEwBHoECAoQAQ#v=onepage&q=rngcryptoserviceprovider%20unique%20key%20different%20computers&f=false)
+ 
 ### Микросервисы примера eShopOnContainers
  * [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://devblogs.microsoft.com/cesardelatorre/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
  * [The Http communication is as follows:Client app --> API Gateway --> (Optional) HttpAggregator --> Internal Microservices](https://github.com/dotnet-architecture/eShopOnContainers/issues/637)
