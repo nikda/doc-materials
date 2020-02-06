@@ -62,6 +62,7 @@
  * [Случайные числа - RNGCryptoServiceProvider](https://books.google.ru/books?id=3pqHDwAAQBAJ&pg=PA27&lpg=PA27&dq=rngcryptoserviceprovider+unique+key+different+computers&source=bl&ots=mQn1jKSL6e&sig=ACfU3U2SAzrqLzsl6T70XiIEpYlRgtlrig&hl=en&sa=X&ved=2ahUKEwiht9jMpd_mAhVTAxAIHemUDHMQ6AEwBHoECAoQAQ#v=onepage&q=rngcryptoserviceprovider%20unique%20key%20different%20computers&f=false)
  
  * [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-3.1)
+ * [ASP.NET Core In Process Hosting on IIS with ASP.NET Core](https://weblog.west-wind.com/posts/2019/Mar/16/ASPNET-Core-Hosting-on-IIS-with-ASPNET-Core-22)
  
 ### Микросервисы примера eShopOnContainers
  * [Designing and implementing API Gateways with Ocelot in .NET Core containers and microservices architectures](https://devblogs.microsoft.com/cesardelatorre/designing-and-implementing-api-gateways-with-ocelot-in-a-microservices-and-container-based-architecture/)
