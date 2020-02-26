@@ -86,6 +86,13 @@ Send-MailMessage -To "Dmitry.Nikitin@moex.com" -From "Dmitry.Nikitin@moex.com" -
 
 Send-MailMessage -To "Dmitry.Nikitin@moex.com" -From "do-not-reply@moex.com" -Subject "Test mail" -SmtpServer "osmtp.moex.com" -Credential web
 password: mstr3k,3d
+
+[invoke-webrequest(curl)](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-webrequest?view=powershell-5.1)
+
+curl http://dev-ib03.headoffice.psbank.local/fp/fts/banklist
+curl -Method POST -ContentType "application/json"  http://dev-ib03.headoffice.psbank.local/fp/integration/CheckReceiver -Body '{ ReceiverPhoneNumber: "+79264776927", SenderPhoneNumber: "+79264776927", SenderAddress: "123", SenderFullName: "123", SenderPassport: "123", SenderAccountNumber: "123", TargetBankId: "123" }'
+curl http://dev-ib03.headoffice.psbank.local/c2b/transfer/GetQrData/z123
+
  
 ### Блоги
  * https://www.zpqrtbnk.net/
