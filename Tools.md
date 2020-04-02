@@ -24,3 +24,7 @@ Float Tab Alt + W, F or Alt + -, F
 Auto Hide All Tab Alt + W, F or Alt + -, F
 
 any shortcuts that you need just comment it...
+
+
+**PowerShell list (dir) files and execute**
+ls ..\23_banklogos\*.png -file | % {.\optipng.exe $_.fullname}
