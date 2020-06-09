@@ -9,6 +9,8 @@
 * [Generic Repository](https://deviq.com/repository-pattern/)
 * [Сборка мусора, LOH](https://docs.microsoft.com/ru-ru/dotnet/standard/garbage-collection/large-object-heap)
 
+## Async
+* [Sync over async](http://tooslowexception.com/)
 
 ## .Net Core
 * [Как работает конфигурация в .NET Core](https://habr.com/ru/post/453416/)
