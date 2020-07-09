@@ -13,6 +13,8 @@
 * [Оптимизация производительности SQL Server с использованием индексов](https://habr.com/ru/post/164717/)
 * [14 вопросов об индексах в SQL Server, которые вы стеснялись задать](https://habr.com/ru/post/247373/)
 * [Индексы](https://www.sql.ru/articles/mssql/03013101indexes.shtml)
+* [Анализ работы MS SQL Server, для тех кто видит его впервые (часть 1)](https://habr.com/ru/post/336302/)
+* [Анализ работы MS SQL Server, для тех кто видит его впервые (часть 2)](https://habr.com/ru/post/336586/)
 * [Разгребание очереди](https://www.sql.ru/forum/254557/a-est-li-smysl-with-updlock-holdlock-readpast)
 ```
 Комбинация WITH(UPDLOCK, READPAST) - совершенно классическое решение для разгребания очереди. Допустим у нас есть таблица с несколькими записями у которых IsProcessed=0 и которые надо обработать каким-то образом из параллельных потоков. Запрос
